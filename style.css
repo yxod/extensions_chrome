@@ -1,0 +1,10 @@
+body{
+    width: 400px;
+}
+h1{
+    display: inline-block;
+}
+button{
+    padding: 5px;
+    border-radius: 12px;
+}
